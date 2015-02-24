@@ -1,0 +1,3 @@
+Spring'i web.xml'e tanıttık.
+
+Spring'i faces-config.xml'e tanıttık.
