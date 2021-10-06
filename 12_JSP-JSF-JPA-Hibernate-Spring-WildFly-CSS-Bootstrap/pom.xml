@@ -186,7 +186,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<dependency>
 			<groupId>com.sun.el</groupId>
 			<artifactId>el-ri</artifactId>
-			<version>1.0</version>
+			<version>3.0.4</version>
 		</dependency>
   </dependencies>
   
