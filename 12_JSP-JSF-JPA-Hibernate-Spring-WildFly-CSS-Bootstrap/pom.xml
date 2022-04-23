@@ -14,7 +14,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	<!-- Spring -->
-		<spring-framework.version>5.2.6.RELEASE</spring-framework.version>
+		<spring-framework.version>5.3.19</spring-framework.version>
 	<!-- JSF Version -->
 		<jsf.version>2.2.10</jsf.version>
 	<!-- Hibernate / JPA -->
